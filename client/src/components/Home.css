@@ -1,0 +1,15 @@
+.Home {
+    display: flex;
+    flex-direction: row;
+}
+
+.left_nav_wrapper{
+    flex:0.2;
+    background:blue;
+}
+
+
+.timeline_wrapper{
+    flex:0.8;
+    background:red;
+}
